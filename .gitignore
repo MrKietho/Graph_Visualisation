@@ -114,5 +114,4 @@ djangoproject/media/visual/random30Matrix.json
 djangoproject/media/visual/random50Matrix.json
 djangoproject/media/visual/random500Matrix.json
 djangoproject/media/visual/random200Matrix.csv
-*.csv
-*.json
+
