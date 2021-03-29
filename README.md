@@ -1,6 +1,6 @@
-# GraphViz
+Original repository: https://github.com/sabastiaan/DBL_HTI
 
-Repo for the GraphViz website (https://dbl-hti.cyanworks.nl/).
+Published paper about our tool: https://dl.acm.org/doi/10.1145/3430036.3430064
 
 ## Prerequisites:
 - Have Python installed
